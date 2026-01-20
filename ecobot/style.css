@@ -1,0 +1,15 @@
+html {
+  color: blue;
+}
+
+body {
+  background-color: yellow;
+}
+
+p {
+  font-size: 20px;
+}
+
+p#welcome {
+  font-size: 20px
+}
