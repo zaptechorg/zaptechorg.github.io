@@ -9,3 +9,7 @@ body {
 p {
   font-size: 20px;
 }
+
+p#welcome {
+  font-size: 20px
+}
